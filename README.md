@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm MRyan
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MRyan)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MRyan&repo=github-readme-stats" />
+</a>
 - 😄 Languages: Java
 - ⚡ Text Editors:  JetBrains
 - 📞 Ask me about anything [here](http://www.mryan.xyz/index.php/aboutme.html)
