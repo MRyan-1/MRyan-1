@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm MRyan
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MRyan&show_icons=true&count_private=true&hide_border=true" alt="MRyan's github stats"/>
-</a>
-
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MRyan)](https://github.com/anuraghazra/github-readme-stats)
 
 - 😄 Languages: Java
 - ⚡ Text Editors:  JetBrains
