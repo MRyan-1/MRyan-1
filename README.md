@@ -27,11 +27,11 @@
 
 
 ## **GitHub Estatísticas**
-![MRyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-m1&theme=radical&show_icons=true) 
+<!--![MRyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-m1&theme=radical&show_icons=true) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-m1&hide=html&layout=compact&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-m1&theme=monokai)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-m1&theme=monokai)-->
 
 
 
