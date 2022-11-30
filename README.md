@@ -11,7 +11,7 @@
 
 > ✨ Glad to meet more friends with the same passion on the new things. 
 
-> 📞 Ask me about anything [here](http://www.wormholestack.cn/index.php/aboutme.html).
+> 📞 Ask me about anything [here](http://www.wormholestack.com/aboutme.html).
 
 
 [^_^]: ## **Language**  
