@@ -1,10 +1,3 @@
-<div>
-  <h3 align="center"> 
-    Visitors Count<br>
-    <img align="center" src="https://profile-counter.glitch.me/Ryan-m1/count.svg" />
-  </h3>
-</div>
-
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Hi there 👋 I'm MRyan
 
 > 😄 I am a software engineer with a passion for the Java ecosystem.
